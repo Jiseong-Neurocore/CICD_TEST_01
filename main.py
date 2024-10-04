@@ -1,5 +1,5 @@
 import script2print
-import parser
+import argparse
 
 def parse_args():
     parser = argparse.ArgumentParser()
